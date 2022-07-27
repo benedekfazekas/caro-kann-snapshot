@@ -1,3 +1,3 @@
 The Caro-Kann
 
-![Caro-Kann](./caro-kann.svg)
+[Caro-Kann](https://raw.githubusercontent.com/benedekfazekas/caro-kann-snapshot/main/caro-kann.svg)
